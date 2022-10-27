@@ -64,8 +64,8 @@
 
     <distributionManagement>
         <repository>
-             <id>myrepos.write</id>
-            <url>https://github.com/Rosemarykjain/myrepos.git</url>
+             <id>first_buildresult.write</id>
+            <url>https://github.com/Rosemarykjain/first-buildresult.git</url>
         </repository>
     </distributionManagement>
 
